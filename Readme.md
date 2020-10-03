@@ -8,6 +8,8 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informac
 2. **Fecha:** 02/10/2020
 3. **Resumen del Ejercicio:**
 Configuramos el webpack y Babel y creamos un paquete de implementación para un proyecto web.
+Se crea la carpeta dist que añadimos la pryecto
+Se cambian todas las llamadas a los script en las páginas html para que apunten a la carpeta dist
 
 4. **Dificultad o problemas presentados y como se resolvieron:** 
 
